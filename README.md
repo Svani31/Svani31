@@ -16,7 +16,7 @@ I embarked on my coding journey 2.5 years ago, and during this time, I've become
 ## Getting in touch
 <p align="left" display="flex">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/giorgi-ratiani-7473b7258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giorgi-ratiani-7473b7258/" height="30" width="40" />
-<a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCJNrcxDcmgxpmHRGSrxTsxXvZtkSrljpSgRLxWckJWHdbJWTcdNNSvJWzrBLBFkbLrvNdxB" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://www.linkedin.com/in/giorgi-ratiani-7473b7258/" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#sent?compose=VpCqJKjFxfpNdtjbwMPqnRqcJqnXQlZbKwlCZhbKCrQsQTvBSDBcmSbjbQzKHZQCFCndzJl" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://www.linkedin.com/in/giorgi-ratiani-7473b7258/" height="30" width="40" /></a>
 </p>
 </a>
 
